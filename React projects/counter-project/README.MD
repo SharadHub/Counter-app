@@ -1,2 +1,0 @@
-# This is counter app, project I create while learning Frontend Development.
-# In this project, I solely used JavaScript and HTML without React.js library to learn the basic and how the JS engine works.

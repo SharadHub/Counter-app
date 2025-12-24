@@ -1,0 +1,29 @@
+.counter{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.count{
+    font-size: 2rem;
+    padding: 0.25rem 0.5rem;
+}
+
+.counter button{
+    padding: 0.5rem 1rem;
+    margin: 0.5rem;
+    font-size: 0.75rem;
+    cursor: pointer;
+}
+
+.decrement{
+    background-color: crimson;
+    color:aqua;
+}
+
+.increment{
+    background-color: limegreen;
+    color: black;
+}
